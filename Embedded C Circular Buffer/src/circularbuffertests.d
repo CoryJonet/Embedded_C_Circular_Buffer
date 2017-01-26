@@ -1,0 +1,11 @@
+circularbuffertests.o: circularBufferTests.c
+circularbuffertests.o: circularBufferTests.h
+circularbuffertests.o: Q:\uVision4.5\ARM\RV31\Inc\stdint.h
+circularbuffertests.o: Q:\uVision4.5\ARM\RV31\Inc\stdlib.h
+circularbuffertests.o: uartPoll.h
+circularbuffertests.o: UART.h
+circularbuffertests.o: Q:\uVision4.5\ARM\RV31\Inc\stdbool.h
+circularbuffertests.o: Q:\uVision4.5\ARM\RV31\Inc\stdio.h
+circularbuffertests.o: Q:\uVision4.5\ARM\RV31\Inc\errno.h
+circularbuffertests.o: lm4f120h5qr.h
+circularbuffertests.o: circular_buffer.h

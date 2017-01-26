@@ -1,0 +1,4 @@
+--cpu Cortex-M4 "startup.o" "main.o" "uartpoll.o" "circularbuffertests.o" "circular_buffer.o" "I:\ECE 353\CircularBufferSrc\p1\lib\pll.lib" "I:\ECE 353\CircularBufferSrc\p1\lib\uart.lib" "I:\ECE 353\CircularBufferSrc\p1\lib\gpio.lib" "I:\ECE 353\CircularBufferSrc\p1\lib\systick.lib" --library_type=microlib --strict --scatter ".\ece353.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\ece353_base_project.map" -o ece353_base_project.axf
